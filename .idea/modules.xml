@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestJpaRepository.iml" filepath="$PROJECT_DIR$/.idea/modules/TestJpaRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestJpaRepository_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestJpaRepository_main.iml" group="TestJpaRepository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestJpaRepository_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestJpaRepository_test.iml" group="TestJpaRepository" />
+    </modules>
+  </component>
+</project>
